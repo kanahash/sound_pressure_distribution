@@ -12,8 +12,6 @@
 ```bash
 cc sound_pressure_distribution.c -o sound_pressure_distribution -lm
 
-```bash
 ./sound_pressure_distribution
 
-```bash
 magick convert sound_pressure.ppm sound_pressure.png
